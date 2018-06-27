@@ -1,10 +1,10 @@
 # Google Africa Challenge Scholarship
 
-# My Final Project by ALCwithGoogle
+## My Final Project by ALCwithGoogle
 
-# The Project Title: Pixel Art Maker
+## The Project Title: Pixel Art Maker
 
-* [Development Strategy](#development strategy)
+* [Strategy](#strategy)
 
 To get started, before I write any code, I loaded up index.html from the starter project to see how things look! I noticed that the design.js file was implemented in the <body> tag in the index.html file. My goal was to build out the design.js file to achieve all the interactive elements on the page!
   For more details on instructions visit [Udacity Classroom](https://classroom.udacity.com/me) for the project.
