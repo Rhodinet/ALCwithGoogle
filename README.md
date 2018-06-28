@@ -18,5 +18,5 @@ I set the size of the cross stitch canvas as an N by M grid with the makeGrid() 
 I now tested it by the time I finished, I notice that I was been able to create a canvas of any size, choose a color using the color picker, and click on the canvas's table cells to set their color.
 
 Thank you for your time.
-COntact me: https://www.linkedin.com/in/rhodinet/
+Contact me: https://www.linkedin.com/in/rhodinet/
 
