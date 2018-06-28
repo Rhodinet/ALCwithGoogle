@@ -1,7 +1,6 @@
 # Google Africa Challenge Scholarship
 
-## My Final Project by Udacity and ALCwithGoogle
-Project link https://rhodinet.github.io/PixelArtMaker/
+## My Final Project by Udacity and ALCwithGoogle https://rhodinet.github.io/PixelArtMaker/
 
 ## Development 
 * [Strategy](#strategy)
