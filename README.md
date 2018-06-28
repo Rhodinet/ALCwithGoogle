@@ -1,8 +1,8 @@
-# Google Africa Challenge Scholarship
+## Google Africa Challenge Scholarship
 
-## My Final Project by Udacity and ALCwithGoogle https://rhodinet.github.io/PixelArtMaker/
+### My Final Project by Udacity and ALCwithGoogle https://rhodinet.github.io/PixelArtMaker/
 
-## Development 
+### Development 
 * [Strategy](#strategy)
 
 To get started, before I write any code, I loaded up index.html from the starter project to see how things look! I noticed that the design.js file was implemented in the <body> tag in the index.html file. My goal was to build out the design.js file to achieve all the interactive elements on the page!
